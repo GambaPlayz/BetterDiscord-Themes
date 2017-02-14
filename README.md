@@ -1,5 +1,5 @@
 
-![intro](<blockquote class="imgur-embed-pub" lang="en" data-id="a/D3Re3"><a href="//imgur.com/D3Re3">lkukikh</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
+![intro](http://i.imgur.com/d2ePf5E.png)
 
 # BetterDiscord CSS Themes
 #### *CustomTags,Animation, etc!*
