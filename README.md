@@ -1,5 +1,5 @@
 
-![intro](http://imgur.com/gallery/D3Re3)
+![intro](http://imgur.com/gallery/D3Re3.png)
 
 # BetterDiscord CSS Themes
 #### *CustomTags,Animation, etc!*
